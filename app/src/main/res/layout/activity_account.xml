@@ -141,7 +141,7 @@
             android:layout_margin="20dp"
             android:layout_gravity="center_vertical"
             app:cardElevation="0dp"
-            app:cardBackgroundColor="#051DA3"
+            app:cardBackgroundColor="#FFC107"
             android:layout_weight="0.3">
             <ImageView
                 android:layout_width="wrap_content"
