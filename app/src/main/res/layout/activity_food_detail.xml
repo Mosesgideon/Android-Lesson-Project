@@ -9,7 +9,6 @@
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
         android:background="#2E2D2D">
 
         <com.google.android.material.appbar.CollapsingToolbarLayout
@@ -83,7 +82,7 @@
                             android:layout_marginRight="10dp"
                             android:text="4.5"
                             android:textColor="@color/white"
-                            android:textSize="16dp" />
+                            android:textSize="16sp" />
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
 
@@ -215,4 +214,6 @@
         </LinearLayout>
 
     </androidx.core.widget.NestedScrollView>
+
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

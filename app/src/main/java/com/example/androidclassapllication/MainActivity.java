@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         LinearLayout profile = findViewById(R.id.profile);
         profile.setOnClickListener(v -> {
-            startActivity(new Intent(MainActivity.this,FoodHomePage.class));
+            startActivity(new Intent(MainActivity.this,HomeActivity.class));
         });
     }
 }
