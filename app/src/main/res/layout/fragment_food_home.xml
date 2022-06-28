@@ -7,7 +7,7 @@
     android:orientation="vertical"
     android:padding="20dp"
     android:background="#F4F4F1"
-    tools:context=".FoodHomePage">
+    tools:context=".FoodHomeFragment">
 
     <TextView
         android:layout_width="wrap_content"
@@ -27,17 +27,17 @@
         android:textColor="@color/black"
         android:fontFamily="monospace"/>
 
-   <EditText
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:background="@drawable/edt_bg"
-       android:layout_marginTop="16dp"
-       android:hint="Search"
-       android:fontFamily="monospace"
-       android:drawableLeft="@drawable/search"
-       android:drawablePadding="10dp"
-       android:padding="14dp"
-      />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/edt_bg"
+        android:layout_marginTop="16dp"
+        android:hint="Search"
+        android:fontFamily="monospace"
+        android:drawableLeft="@drawable/search"
+        android:drawablePadding="10dp"
+        android:padding="14dp"
+        />
 
     <ScrollView
         android:layout_width="match_parent"
@@ -150,15 +150,15 @@
                 android:fontFamily="monospace"
                 android:textSize="18dp"
                 android:textColor="#635F5F"/>
-           <androidx.recyclerview.widget.RecyclerView
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               tools:listitem="@layout/food_item"
-               tools:itemCount="5"
-               android:id="@+id/fvoriteRecycler"
-               android:orientation="horizontal"
-               app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
-               app:spanCount="1"/>
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:listitem="@layout/food_item"
+                tools:itemCount="5"
+                android:id="@+id/fvoriteRecycler"
+                android:orientation="horizontal"
+                app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+                app:spanCount="1"/>
 
             <LinearLayout
                 android:layout_width="match_parent"

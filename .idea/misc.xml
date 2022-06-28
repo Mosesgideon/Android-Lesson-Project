@@ -18,6 +18,14 @@
         <entry key="..\:/Users/HP/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/toping_layout.xml" value="0.5" />
         <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/activity_account.xml" value="0.18" />
         <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/activity_food_detail.xml" value="0.11141304347826086" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/activity_food_home_page.xml" value="0.1" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/activity_home.xml" value="0.18" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/container.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/fragment_cart.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/fragment_favorite.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/fragment_food_home.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/layout/fragment_profile.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Victor/AndroidStudioProjects/AndroidClassApllication/app/src/main/res/menu/bottom_nav_items.xml" value="0.17083333333333334" />
       </map>
     </option>
   </component>
